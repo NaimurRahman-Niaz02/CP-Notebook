@@ -1,0 +1,10 @@
+{ 
+    "cmd" : [" (g++ -w -std=c++23 ${file}) && 
+            (./a.out)</home/prattoy/Desktop/code/input.txt|tee 
+            /home/prattoy/Desktop/code/output.txt"], 
+    "selector" : "source.c++", 
+    "shell": true, 
+    "working_dir" : "$file_path", 
+    "file_regex" : "^(..[^:]):([0-9]+):?([0-9]+)?:? (.)$" 
+}
+ 

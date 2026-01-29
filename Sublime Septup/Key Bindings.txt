@@ -1,0 +1,5 @@
+for setup: Preferences > Key Bindings
+
+[
+	{ "keys": ["ctrl+alt+z"], "command": "cancel_build" }
+]

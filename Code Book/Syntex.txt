@@ -1,0 +1,27 @@
+CPP:
+--ios::sync_with_stdio(false); 
+  cin.tie(0); 
+  cin.tie(0);
+--freopen("problemname.in", "r", stdin);
+  freopen("problemname.out", "w", stdout);
+--priority_queue<int, vector<int>, greater<int>> pq;
+--arr.erase(unique(arr.begin(), arr.end()), arr.end()); // remove duplicate from sorted array->unique array
+--transform(s.begin(), s.end(), s.begin(),
+    [](char c) { return tolower(c); });  // convert string to lowercase
+--merge(a.begin(), a.end(), b.begin(), b.end(), back_inserter(c)); // merge a, b to c 
+--set<pair<int, int>, decltype(cmp)> st(cmp);
+--cout << fixed << setprecision(10) << ans << endl;
+--cout << setfill(‘0’) << setw(20) << ans << endl;  //Print with Leading Zeros
+
+Python:
+--integer input: n = int(input())
+--array input:
+  arr = list(map(int, input().split()))
+--array of size n:
+  arr = [0]*n
+--length of array:
+  n = len(arr)
+--power (a^b): a**b
+--print without newline:
+  print(a, end=’ ‘)
+

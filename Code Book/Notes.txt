@@ -1,0 +1,4 @@
+--primes = {285897553, 745494041, 693888673, 950758511, 282174533, 847345579, 722520917, 354688703, 963459817, 139793893};
+--sum of absolute differences of all pairs: 
+  contribution(arr[i]) = arr[i]×(2i−n+1)
+--Chess Horse moves: dx{ 2, 2, -2, -2, 1, 1, -1, -1} , dy{1, -1, 1, -1, 2, -2, 2, - 2}
